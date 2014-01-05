@@ -5,7 +5,7 @@
 //include do loggera - korzystajcie smialo
 #include <QsLog.h>
 #include <QDir>
-#include <QsLogDest.h>
+#include <QsLogDest.h> 
 
 int main(int argc, char *argv[])
 {
